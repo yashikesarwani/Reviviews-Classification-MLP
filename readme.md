@@ -1,0 +1,1 @@
+This is an Application for the classification of reviews as POSITIVE or NEGATIVE given by different users by analyzing the sentiments in reviews using the concepts of Neural Network and Multiple Layer Perceptron.
